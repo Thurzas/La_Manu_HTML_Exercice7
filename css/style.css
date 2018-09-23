@@ -1,0 +1,18 @@
+.blue fieldset, .blue legend{
+
+  background-color: #2574A9;
+}
+
+.purple fieldset, .purple legend{
+
+  background-color: #9A12B3;
+}
+
+.red fieldset, .red legend{
+
+  background-color: #DB0A5B;
+}
+
+li{
+  list-style-type:none;
+}
